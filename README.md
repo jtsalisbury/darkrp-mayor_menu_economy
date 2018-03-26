@@ -1,1 +1,1 @@
-darkrp-mayor_menu_economy
+mayoreconomy
